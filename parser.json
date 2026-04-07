@@ -1,9 +1,9 @@
 {
+  "parser_version": "02150524228b1e6afef96949f2d6b7cc0aaf999e",
+  "location": null,
+  "lang": "circom",
   "generate": null,
   "generate_from_json": null,
   "url": "https://github.com/Decurity/tree-sitter-circom",
-  "semver": false,
-  "parser_version": "02150524228b1e6afef96949f2d6b7cc0aaf999e",
-  "lang": "circom",
-  "location": null
+  "semver": false
 }
